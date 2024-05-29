@@ -60,3 +60,4 @@ listaCarros.forEach(carro => {
 // console.log(lista)
 
 
+console.log("AULA_TERMINADA");
