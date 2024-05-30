@@ -62,4 +62,8 @@ listaCarros.forEach(carro => {
 
 console.log("AULA_TERMINADA");
 
+
 console.log("Vai Corinthians");
+
+console.log("amo naruto")
+
